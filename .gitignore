@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ML Artifacts
+artifacts/
+*.pkl
+*.joblib
+
+# Dataset (optional)
+data/raw/
+data/processed/
+
+# Model checkpoints
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+logs/
+artifacts/
+*.pkl
