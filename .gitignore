@@ -234,3 +234,27 @@ Thumbs.db
 logs/
 artifacts/
 *.pkl
+# Virtual Environment
+bank_loan_approval_env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+
+# Artifacts
+artifacts/
+
+# Processed Data
+data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
